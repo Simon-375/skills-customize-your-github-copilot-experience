@@ -58,6 +58,76 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Building REST APIs with FastAPI framework",
+      "path": "assignments/rest-apis-with-fastapi",
+      "dueDate": "2026-11-16"
+    }
+  ]
+}
+{
+  "course": {
+    "title": "Computer Science",
+    "school": "Mergington High School",
+    "description": "Introduction to programming and computer science"
+  },
+  "assignments": [
+    {
+      "id": "python-basics",
+      "title": "Python Basics",
+      "description": "Variables, data types, conditionals, and loops",
+      "path": "assignments/python-basics",
+      "dueDate": "2026-09-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "games-in-python",
+      "title": "Games in Python",
+      "description": "Creating games using Python",
+      "path": "assignments/games-in-python",
+      "dueDate": "2026-09-26"
+    },
+    {
+      "id": "python-classes",
+      "title": "Python Classes",
+      "description": "Defining and using classes in Python",
+      "path": "assignments/python-classes",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-analysis",
+      "title": "Data Analysis",
+      "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
+      "path": "assignments/data-analysis",
+      "dueDate": "2026-11-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
